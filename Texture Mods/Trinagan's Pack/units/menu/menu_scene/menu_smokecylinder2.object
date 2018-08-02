@@ -1,0 +1,6 @@
+<dynamic_object>
+    <diesel orientation_object="rp_menu_smokecylinder2" materials="units/menu/menu_scene/menu_cylinder" />
+    <graphics>
+        <object enabled="true" name="g_cylinder_mesh" />
+    </graphics>
+</dynamic_object>

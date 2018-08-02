@@ -1,0 +1,5 @@
+<table name="id">
+    <!--   Replace name with whatever you like, and id with something which will help you recognize the song, and in source put the path to the sound file. -->
+	<Localization directory="loc" default="en.txt"/>
+	<MenuMusic id="id" source="music/filename.ogg"/>
+</table>

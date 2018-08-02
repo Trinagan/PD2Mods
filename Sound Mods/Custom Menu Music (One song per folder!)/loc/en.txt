@@ -1,0 +1,4 @@
+{
+	"menu_jukebox_id" : "Artist - Name",
+	"menu_jukebox_screen_id" : "Artist - Name"
+}
